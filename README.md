@@ -77,7 +77,7 @@ Target Variable:
 ## 💻 Installation & Setup
 
 ### 1. Clone Repository
-git clone https://github.com/krishnaik06/ANN-CLassification-Churn.git  
+git clone https://github.com/kritikaxos/Customer-churn-prediction.git  
 cd ANN-CLassification-Churn  
 
 ### 2. Install Dependencies
